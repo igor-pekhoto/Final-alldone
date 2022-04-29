@@ -27,5 +27,6 @@ module.exports = {
     'no-alert': 'off',
     semi: ['error', 'never'],
     'no-console': 0,
+    'linebreak-style': 0,
   },
 }
